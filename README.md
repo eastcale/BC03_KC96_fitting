@@ -1,0 +1,1 @@
+This repository is the result of a project in ASTR 5465 (Galaxies) at the University of Wyoming, in which we fit Bruzual et al. (2003) simple stellar populations to Kinney et al. (1996) galaxy spectral templates to explore the degeneracies present in modeling of galactic spectra.
